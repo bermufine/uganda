@@ -8,5 +8,7 @@
 
 {"descriptionUg":"Fort TV est une chaine privee en Uganda.","sourceUg":["http://fort.co-works.org:8080/hls/live.stream.m3u8"],"subtitleUg":"By Channel","thumbUg":"https://od.lk/s/M18yODM2MDg1MjFf/fort.jpg","titleUg":"FORT TV"},
 
+{"descriptionUg":"UTV est une chaine privee en Uganda.","sourceUg":["http://69.64.57.208/utv/playlist.m3u8"],"subtitleUg":"By Channel","thumbUg":"https://od.lk/s/M18yODM2MDg1MjFf/fort.jpg","titleUg":"UTV"},
+
 {"descriptionUg":"Salt TV is a Christian television channel station from Uganda. Salt TV is based in Kampala. Matthew 5:13-16 (NKJV) Believers Are Salt and Light 13 You are the salt of the earth, but if the salt loses its flavor, how shall it be seasoned? It is then good for nothing but to be thrown out and trampled underfoot by men.","sourceUg":["
 https://salttelevision.com/memfs/d1b981f8-317d-4750-8eb0-1c116add469c.m3u8"],"subtitleUg":"By Channel","thumbUg":"https://www.saltmedia.ug/images/NOV/SALT-TV.jpg","titleUg":"Salt TV"}]}]}
